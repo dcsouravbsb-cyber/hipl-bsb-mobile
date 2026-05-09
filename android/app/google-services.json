@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225468805987",
+    "project_id": "hipl-bsb-system",
+    "storage_bucket": "hipl-bsb-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225468805987:android:2692d08dbb46cb6f2a9956",
+        "android_client_info": {
+          "package_name": "com.example.hipl_bsb_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMV2aL0lr0Ndtw-6lg7NBnastdPpjkRVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
